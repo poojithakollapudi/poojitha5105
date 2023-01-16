@@ -1,4 +1,4 @@
-print(from gitbash')
+print('from gitbash')
 a=100
 b=30
 print('multiplication'a*b)
